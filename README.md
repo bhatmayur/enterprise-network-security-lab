@@ -3,7 +3,7 @@ Enterprise network security lab implementing VLAN segmentation, OSPF, BGP, Layer
 
 ## Architecture
 
-![Enterprise Topology](enterprise_topology.png)
+![Enterprise Topology](enterprize_topology.png)
 
 ## Technologies
 
